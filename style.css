@@ -1,3 +1,10 @@
 body{
-    background-color: aqua;
+    background-color:lemonchiffon;
+    color: midnightblue;
+}
+
+p{
+    border-radius: 5px;
+    border-style: double;
+    border-color: blue;
 }
